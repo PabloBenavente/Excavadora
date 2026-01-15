@@ -1,0 +1,26 @@
+body {
+  /* Eliminar márgenes */
+  margin: 0;
+  overflow: hidden;
+
+  /* Estilo texto */
+  text-align: center;
+  font-size: 12px;
+  font-family: Sans-Serif;
+
+  /* color texto */
+  color: #444;
+}
+
+
+#contenedor {
+  
+  width: 50%;
+  height: 50%;
+
+  /*
+Background color del contenedor
+  */
+  background-color: lightblue;
+}
+ 
