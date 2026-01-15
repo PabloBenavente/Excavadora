@@ -7,6 +7,9 @@ En este proyecto se presenta la realización de una excavadora en three.js con f
 
 El link de uso es https://pablobenavente.github.io/Excavadora/
 
+Algunas texturas son pesadas, por lo que tarda un poco en cargar.
+
+
 ## Instrucciones de uso del movimiento de la excavadora
 
 ### Movimiento de conducción por el mapa:
@@ -38,7 +41,6 @@ El link de uso es https://pablobenavente.github.io/Excavadora/
 
 ## Bibliotecas empleadas:
 
-three.js (situada en /lib): La principal biblioteca de gráficos tridimensionales en JavaScript. Las tareas que realiza son: gestionar la escena, crear objetos en 3D, aplicar texturas y luces, y renderizar con WebGL.
+- three.js (situada en /lib): La principal biblioteca de gráficos tridimensionales en JavaScript. Las tareas que realiza son: gestionar la escena, crear objetos en 3D, aplicar texturas y luces, y renderizar con WebGL.
 
-TrackballControls.js (situado en /lib): Plugin extra que ofrece una interfaz para controlar la cámara, posibilitando la exploración interactiva del modelo a través de rotaciones y acercamientos con el ratón.
-
+- TrackballControls.js (situado en /lib): Plugin extra que ofrece una interfaz para controlar la cámara, posibilitando la exploración interactiva del modelo a través de rotaciones y acercamientos con el ratón.
